@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Bem-vindo(a) ao meu perfil <img src="https://media.tenor.com/4PXxgZON9NwAAAAi/cats-miskey-the-peacemaker.gif" height="35" >
 
  <div>
    <a href="https://github.com/sarahxzkk">
